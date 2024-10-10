@@ -2,12 +2,12 @@
 
 ## File Structure
 
-* dataset: contains the dataset used for training and testing
-* trainedModel: contains the trained model (model.pt)
-* requirements.txt: contains the required packages to run the code
-* src.ipynb: contains the code for POS Tagger
+* /dataset: Contains the data used for training and testing
+* /trainedModel: Contains the trained model (model.pt)
+* requirements.txt: Contains the required packages to run the code
+* src.ipynb: Contains the code for POS Tagger
 
-## How to run the code
+## Steps to run
 ` pip install -r requirements.txt `
 ` jupyter notebook src.ipynb `
 
